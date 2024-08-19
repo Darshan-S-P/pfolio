@@ -36,13 +36,11 @@ function Projects() {
               title="license plate recognition"
               description="Using harscascade and pytesseract to recognize the license plate"
               ghLink="https://github.com/Darshan-S-P/plate"
-              demoLink="https://github.com/Darshan-S-P/plate"              
+              demoLink="http://darshansp.pythonanywhere.com/"              
             />
           </Col>
 
-      
-        
-        
+  
         </Row>
       </Container>
     </Container>
